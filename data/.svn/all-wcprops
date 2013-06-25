@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data
+END
+train2k.databw.35
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data/train2k.databw.35
+END
+test200.label.kernel.35
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data/test200.label.kernel.35
+END
+test200.databw.35
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data/test200.databw.35
+END
+test200.label.linear.35
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data/test200.label.linear.35
+END
+train2k.label.35
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/abeinstein-cs25010-spr-13/!svn/ver/11/HW-4/data/train2k.label.35
+END
